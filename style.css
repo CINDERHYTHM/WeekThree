@@ -1,8 +1,14 @@
 body 
 {
-
+background-image:url('backg.jpg');
+backgroud-color:black;
+font-family:Helvetuca;
+color:yellow;
+text-shadow: 1px 1px #000000;
 }
 ul
 {
 list-style-type:square
 }
+a
+{color:white}
